@@ -5,7 +5,7 @@ Python >= 3.6
 pytorch = 1.4.0  
 SimpleITK = 2.0.2  
 numpy = 1.19.5  
-einops = 0.3.2 
+einops = 0.3.2  
 timm = 0.3.2
 
 # Introduction
